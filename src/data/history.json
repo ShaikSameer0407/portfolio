@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Data Analytics",
+    "organisation": "innobyte services",
+    "startDate": "December, 2024",
+    "endDate": "January,2025",
+    "experiences": ["analysing the data using excel and making dashboards using power bi "],
+    "imageSrc": "https://www.innobyteservices.com/assets/images/transparentLogo.png"
+  },
+  {
+    "role": "Web Development",
+    "organisation": "CodeSoft",
+    "startDate": "December, 2024",
+    "endDate": "January,2025",
+    "experiences": ["Developing user friendly websites "],
+    "imageSrc": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=608,fit=crop,q=95/Aq20eV79zLfpXV6b/logo-png-mnl7npnlXjHPl9KV.png"
+  }
+  
+]

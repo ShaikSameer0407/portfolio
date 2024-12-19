@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Rice Express",
+      "imageSrc": "https://github.com/shaik1207/images/blob/main/ricexpress%20logo.png?raw=true",
+      "description": "online  quality rice Delivery platform which includes differents types of rice items ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "More Info",
+      "imageSrc": "https://github.com/shaik1207/images/blob/main/Screenshot_2024-06-05_120657-removebg-preview%20(1).png?raw=true",
+      "description": "Providing guidlines about Dropshipping and Affiliate Marketing",
+      "skills": ["React", "Express", "Node", "Fire base"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "complain Desk",
+      "imageSrc": "https://cdn.freebiesupply.com/logos/thumbs/2x/desk-logo.png",
+      "description": "online complain register platform using mern stack",
+      "skills": ["MongoDB", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
